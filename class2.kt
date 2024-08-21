@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+// fun main(args:Array<String>){
     // variables in kotlin
 //     var a=40
 //     var b=40
@@ -29,6 +29,45 @@ fun main(args:Array<String>){
     // print(a+b+str ing)
     // var 123tarun=50
     // print(a+b+123tarun)
-    var age:Int =35
-    println(age);
-}
+    // var age:Int =35
+    // println(age);
+    
+    
+    
+    
+    
+    
+    // defining a function in java and calling a messgae outside a function
+    // fun greet(){
+    //   var message:String
+    //   message="Hello tarun choudhary";
+    //   println(message);
+      
+    // }
+    // println(message) this will give error 
+    
+    
+    
+    
+    
+    
+    
+    
+    // creating a class in kotlin with user data
+    
+     class Person{
+       var name:String="john deo"
+       var age:Int =30
+       fun displayInfo(){
+         println("Name: $name,Age : $age")
+       }
+     }
+    // main function 
+     fun main()
+     {
+      // creating objest of the function
+       val person=Person()
+       person.displayInfo()
+     }
+    
+// }
