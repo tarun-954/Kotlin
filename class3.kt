@@ -41,6 +41,20 @@ println(squares[0])
     println(squares[3])
     println(squares[4])
     
+//     check the size of the array
+var size=numbers.size
+    println("size of the array is "+size)
+    
+    
+//     check if the array is empty of not 
+var isEmpty=words.isEmpty()
+println("The array is empty: $isEmpty")
+
+// DO
+// 2D array 
+// conversion 
+// typecasting
+// all the types of operaters 
 //     modifing the elements of the array 
     
 }
