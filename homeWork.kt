@@ -2,7 +2,7 @@ fun main() {
 //     write a java program for discount system 
 //    var name="Tarun"
     val age=60;
-   val gender="female";
+   val hasMembership="true"
     val finalAmount:Int
     val totalAmount=10000
     
