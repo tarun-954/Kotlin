@@ -7,17 +7,17 @@ fun main() {
     
     
     // and operater 
-//     var x1=true
-//     var y1=false
-//     println(x1&&y1)
-//     println(x1.and(y1))
-//     var x=2
-//     println(+x)
-//     println(-x)
-//     println(x++) //increment to 3 but not printed
-//     println(++x) // incremented and also printed
-//     println(x--) // decremented but not printed
-//         println(--x) // decremented and also printed
+    var x1=true
+    var y1=false
+    println(x1&&y1)
+    println(x1.and(y1))
+    var x=2
+    println(+x)
+    println(-x)
+    println(x++) //increment to 3 but not printed
+    println(++x) // incremented and also printed
+    println(x--) // decremented but not printed
+        println(--x) // decremented and also printed
         
     
     //elvish operater in kotline
@@ -40,10 +40,11 @@ fun main() {
         else->"choice out of bound"
     }
         println(result)
+
 //  compile all the programs done in class 
 // try to make a calulator with all the arthemetic operaters
 // using the loop print and add even numbers sum of the array 
-//revise functions again as home work
+//revise functions classes objects calling of the function again as home work
 
 //   var choice ="+"
 //    var a=10
