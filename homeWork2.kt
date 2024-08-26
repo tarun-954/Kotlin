@@ -5,11 +5,8 @@ fun main() {
 //     if they have then print 20% dicount
 //     if they dont have then print 10% discount
 //     if the amount is less then 1000 then print no discount to the user 
-//     
-    
-    
+//      
    var name="Tarun"
-
    val hasMembership=false
     val finalAmount:Int
     val totalAmount=1001
@@ -25,8 +22,7 @@ fun main() {
             println("Hurry! You got 10% discont.")
         println("Final amount: $finalAmount")
   			  }
-   
-   
+     
     }
     
     else{
