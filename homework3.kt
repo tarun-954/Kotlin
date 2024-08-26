@@ -1,7 +1,7 @@
 
 //  compile all the programs done in class 
 // try to make a calulator with all the arthemetic operaters
-//revise functions classes objects calling of the function again as home work
+
 fun main(){
     var a=10
    var b=30
@@ -28,16 +28,16 @@ var sum=0;
                  print(i)
             sum=sum+i
             print(" ")
-            
-            
-            
-            }
-           
-           
+                      
+              }
+                    
         }
         println()
                     println("sum of even numbers" +sum)
 
+
+                    
+ //revise functions classes objects calling of the function again as home work
 
 }
 

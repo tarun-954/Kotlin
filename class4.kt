@@ -42,7 +42,7 @@ fun main() {
         println(result)
 
 //  compile all the programs done in class 
-// try to make a calulator with all the arthemetic operaters
+
 // using the loop print and add even numbers sum of the array 
 //revise functions classes objects calling of the function again as home work
 
