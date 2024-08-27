@@ -38,6 +38,25 @@ var sum=0;
 
                     
  //revise functions classes objects calling of the function again as home work
+// Function
+fun greet(name: String): String {
+    return "Hello, $name!"
+}
+
+// Function calling 
+print(greet("Tarun"))
+
+
+
+// function 2
+fun add(a: Int, b: Int): Int {
+    return a + b
+}
+
+fun main() {
+    println(add(5, 3))
+}
+
 
 }
 
