@@ -43,11 +43,4 @@ fun main() {
    
    
    
-   //h.w
-  
-   // factorial using recursion
-    //sum of n numbers using recursion
-    // find sum of even numbers for the given range of 1 to n using reccursion and function calling
-//make a class and create two diiferent object of this cllass and pass differnet parametere to the class
-    
 }
